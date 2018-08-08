@@ -153,7 +153,7 @@
     <gap:plugin name="cordova-plugin-file-opener2" source="npm" />
     <gap:plugin name="cordova-plugin-badge" source="npm" />
     <gap:plugin name="cordova-android-support-gradle-release" source="npm" >
-        <param name="ANDROID_SUPPORT_VERSION" value="27.+" />
+        <param name="ANDROID_SUPPORT_VERSION" value="27+" />
     </gap:plugin>
 
     <!-- @todo: Android debuggable. -->
